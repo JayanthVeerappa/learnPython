@@ -7,7 +7,7 @@ Day 1:
 4. Given 3 numbers, find the max of them Done
 5. Given 3 numbers, check if they are pythagorean triplets  DOne
 6. Given a number n, find n! Done
-7. Given a number n, find sum of all numbers until n 
+7. Given a number n, find sum of all numbers until n Done
 8. Given n and r, find nPr, nCr 
 9. Given n, check if its prime number 
 10. Given n, generate n random numbers upto 100. Find min, max, sum, mean, mode and median of these numbers 
