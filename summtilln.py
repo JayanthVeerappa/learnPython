@@ -8,4 +8,4 @@ def sum(n: int) -> int:
 print("Program to print the sum of all the numbers till n")
 n = int(input("Type a number (n): "))
 ans = sum(n)
-print(f"The factorial of {n} is {ans}")
+print(f"The sum of {n} is {ans}")
