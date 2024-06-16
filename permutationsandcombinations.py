@@ -21,13 +21,13 @@ r = int(input("Type a number (r): "))
 
 nminusr = int(n - r)
 
-calculate = int(factorial(n) / (factorial(nminusr) * factorials(r)))
+npr = int(factorial(n) / (factorial(nminusr) * factorials(r)))
 
 
-calculate2 = factorial(n) / factorial(nminusr)
+ncr = factorial(n) / factorial(nminusr)
 
 
-print(f"The combination of {n} and {r} is {calculate}")
-print(f"The permuatition of {n} and {r} is {calculate2}")
+print(f"The combination of {n} and {r} is {npr}")
+print(f"The permuatition of {n} and {r} is {ncr}")
 
 
