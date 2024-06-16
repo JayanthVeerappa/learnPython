@@ -10,10 +10,10 @@ Day 1:
 7. Given a number n, find sum of all numbers until n Done
 8. Given n and r, find nPr, nCr 
 9. Given n, check if its prime number 
-10. Given n, generate n random numbers upto 100. Print them. Find min, max, sum, mean, mode and median of these numbers 
-11. Given a number n, generate n random numbers upto 100, print them. Print the numbers in reverse order
+10. Given n, generate n random numbers upto 100. Print them. Find min, max, sum, mean, mode and median of these numbers in progress
+11. Given a number n, generate n random numbers upto 100, print them. Print the numbers in reverse order 
 12. Given a number n, generate n random number upto 100, print them. Then print only the numbers less than 20
-13. Given a number n, print all the divisors of n
+13. Given a number n, print all the divisors of n DOne
 14. Given two numbers m and n, generate 2 random lists list1 and list2 of size m and n respectively, with numbers less than 10. Print a) unique numbers that are in both list1 and list2. b) unique numbers that are in list1, but not list2. c) unique numbers that are in list2, but not list1
 15. Given a string, check if its a palindrome
 16. Implement rock, paper, scissor game
